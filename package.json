@@ -1,6 +1,6 @@
 {
   "name": "tea-fresh-pack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tea tools",
   "main": "start.js",
   "scripts": {
